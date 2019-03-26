@@ -2,8 +2,8 @@ package co.carrd.andwhat5.sts.commands;
 
 import co.carrd.andwhat5.sts.STS;
 import co.carrd.andwhat5.sts.ui.UISTS;
-import com.pixelmonmod.pixelmon.storage.PixelmonStorage;
-import com.pixelmonmod.pixelmon.storage.PlayerStorage;
+import com.pixelmonmod.pixelmon.api.storage.PixelmonStorage;
+import com.pixelmonmod.pixelmon.api.storage.PlayerStorage;
 import net.minecraft.entity.player.EntityPlayerMP;
 import ninja.leaping.configurate.objectmapping.ObjectMappingException;
 import org.spongepowered.api.command.CommandException;
